@@ -10,6 +10,6 @@ Chapter I : Basic Techniques
 - Dynamic Programming
 - Amotized Analysis
 - Range Queries
-- Bit Manipulation   
+- Bit Manipulation     
 Chapter II : Graph Algorithms
 Chapter III : Advanced Topics

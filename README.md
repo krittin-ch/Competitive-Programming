@@ -2,6 +2,7 @@
 
 ## Overview
 This repository is based on **_Competitive Programming's Handbook_** by **Antti Laaksonen**.
+The PDF file of this book can be found [Here](https://cses.fi/book/index.php).-
 
 The book consists of **3 main chapters**:
 1. Basic Techniques
