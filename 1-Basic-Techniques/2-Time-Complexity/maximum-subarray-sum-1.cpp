@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
-#include <algorithm>  
 
-// Intuitive Method
+// Method I - Intuitive Method
 // Worst-Case Time Complexity : O(n^3)
 
 int main() {
@@ -16,7 +15,7 @@ int main() {
             for (int k = i; k <= j; k++) {
                 sum += arr[k];
             }
-            best = max(best, sum);
+            best = std::max(best, sum);
         }
     }
 
